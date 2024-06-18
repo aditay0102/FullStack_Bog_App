@@ -1,0 +1,12 @@
+#postimage{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#postimg{
+    width: 35%;
+    height: 35%;
+}
+
+

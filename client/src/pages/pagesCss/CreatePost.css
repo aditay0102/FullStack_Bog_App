@@ -1,0 +1,24 @@
+.edit-row{
+    display: flex;
+
+}
+
+.edit-btn{
+    width: 30%;
+}
+
+.delete-btn{
+    width: 20%;
+    background-color: red;
+}
+
+#image{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+#img{
+    max-width: 50%;
+    max-height: 40%;
+}
